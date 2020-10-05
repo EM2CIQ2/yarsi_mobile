@@ -9,8 +9,8 @@ From Webpage to Android Layout without using WebView, and use Parcelable / Inten
 - Form 1
   
 ### Screenshot
-!(Splash)[assets/splash.png]  
-!(Form 1)[assets/form1.png]
+![Splash](assets/splash.png)  
+![Form 1](assets/form1.png)
   
 ### Contributor
 - Unero (Maintainer)
